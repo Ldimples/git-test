@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41359b33-54b2-4c95-9e2b-f8da73b91598" name="Changes" comment="" />
+    <list default="true" id="41359b33-54b2-4c95-9e2b-f8da73b91598" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it/GitTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,11 +87,23 @@
       <workItem from="1701944470452" duration="914000" />
       <workItem from="1701945527077" duration="24000" />
       <workItem from="1701945564367" duration="61000" />
-      <workItem from="1701945628606" duration="852000" />
+      <workItem from="1701945628606" duration="1575000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1701946813093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701946813093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
